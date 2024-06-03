@@ -28,5 +28,5 @@ The project contains unit and snapshot tests. Reference images for snapshot test
 
 Copyright © 2024 Aziza Elgoul
 
-License: MIT
+License: [MIT](https://opensource.org/license/mit)
 
