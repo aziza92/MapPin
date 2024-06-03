@@ -10,6 +10,9 @@ Our application harnesses the power of iOS 17.4 and MapKit to provide an interac
 The pin is not just a static marker, it’s interactive and movable. Users can change the pin’s location by simply dragging it across the map. This feature provides flexibility and personalization, allowing users to mark any location that suits their needs.
 Once the pin is placed or moved, the application automatically fetches the new location data. This real-time update ensures that users always have the most accurate location information at their fingertips.
 
+#
+![](https://github.com/aziza92/MapPin/assets/64699474/c6c4fd9d-6381-4479-9b70-270784923386.gif)
+
 
 🛠 Tech stack
 
