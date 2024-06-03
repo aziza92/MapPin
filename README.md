@@ -16,6 +16,7 @@ Once the pin is placed or moved, the application automatically fetches the new l
 
 🛠 Tech stack
 
+*[Xcode v15.4](https://developer.apple.com/xcode/)
 * Xcode v15.4
 * SwiftUI v5.0
 * iOS v17.4
