@@ -17,9 +17,8 @@ Once the pin is placed or moved, the application automatically fetches the new l
 🛠 Tech stack
 
 * [XCode v15.4](https://developer.apple.com/xcode/)
-* Xcode v15.4
-* SwiftUI v5.0
-* iOS v17.4
+* [SwiftUI v5.0](https://developer.apple.com/documentation/swiftui)
+* [iOS v17.4](https://www.apple.com/befr/ios/ios-17/)
 
 
 The project contains unit and snapshot tests. Reference images for snapshot tests were recorded using iPhone 15 Pro simulator.
